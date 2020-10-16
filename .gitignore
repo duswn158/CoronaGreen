@@ -21,6 +21,7 @@ MANIFEST.MF
 .settings
 */target/*
 
+
 # External tool builders
 .externalToolBuilders/
 
