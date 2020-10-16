@@ -19,7 +19,7 @@ local.properties
 pom.properties
 MANIFEST.MF
 .settings
-*/target/*
+/target/
 
 # External tool builders
 .externalToolBuilders/
