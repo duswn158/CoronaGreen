@@ -48,6 +48,15 @@
 		<appender-ref ref="console" />
 	</root>
 
-
+ <!-- 
+   
+      log4j Log level
+      - Level.FATAL : 치명적인 오류
+      - Level.ERROR : 일반적인 오류
+      - Level.WARN : 경고
+      - Level.INFO : 정보
+      - Level.DEBUG : 디버깅 정보
+      - Level.TRACE : DEBUG + @ (상세한 정보)
+    -->
 
 </log4j:configuration>

@@ -46,7 +46,7 @@
 		<nav class="menubar__user">
 			<div class="user__category">
 				<!-- 현모 마이페이지 부분 -->
-				<a href="#"><span>MY PAGE</span></a>
+				<a href="mypage_update.do"><span>MY PAGE</span></a>
 				<a href="logout1.do"><span>LOG OUT</span></a>
 			</div>
 		</nav>
