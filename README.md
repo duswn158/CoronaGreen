@@ -27,6 +27,6 @@ User의 입장에서 필요한 정보만 모을 수 있는 저장소 구축(북�
 - 협업 툴 : GitHub
 
 
-👍 프로젝트 페이지 주소 : http://coronagreen.cf/
+👍 프로젝트 페이지 주소 : http://coronagreen.cf/ (*현재 서버 닫힘 상태입니다.*)
 
 🗃 관리자 페이지 Github : https://github.com/jungeun-p/CoronaGreen_Adminpage
